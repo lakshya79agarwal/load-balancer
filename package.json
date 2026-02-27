@@ -1,3 +1,4 @@
+bun install
 {
     "name": "build-load-balancer",
     "module": "index.ts",
